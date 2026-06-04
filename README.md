@@ -18,11 +18,11 @@ Azért választottam, mert: Mert segít az alapjában
 
 ## Mit módosítottam?
 
--
--
--
--
--
+-Képeket
+-Szöveget
+-Hattér
+-Navigáció
+-Footer
 
 ## Használt technológiák
 
